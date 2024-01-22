@@ -1,5 +1,5 @@
 # Notas:
-Primer aplicación en consola utilizando Node
+Primer aplicación de consola utilizando Node
 
 ```
 Options:
